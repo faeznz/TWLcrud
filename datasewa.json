@@ -1,0 +1,70 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Zulfan Faizun",
+      "address": "Yogyakarta",
+      "phone": "02551646545",
+      "class": "VIP",
+      "description": "Sudah Oke!"
+    },
+    {
+      "id": 2,
+      "name": "Faizun",
+      "address": "Bantul",
+      "phone": "02551646545",
+      "class": "Standard",
+      "description": "Oke sip"
+    },
+    {
+      "id": 3,
+      "name": "Mamat",
+      "address": "Sleman",
+      "phone": "02551646545",
+      "class": "VIP",
+      "description": "Pelanggan setia"
+    },
+    {
+      "name": "Ucil",
+      "address": "Bantul",
+      "phone": "0000000000000",
+      "class": "VIP",
+      "description": "Orang Toxic",
+      "id": 4
+    },
+    {
+      "name": "aa",
+      "address": "",
+      "phone": "",
+      "class": "",
+      "description": "",
+      "bukti": "C:\\fakepath\\Workshop Pengisian SIMKATMAWA.png",
+      "id": 5
+    },
+    {
+      "name": "aa",
+      "address": "",
+      "phone": "",
+      "class": "",
+      "description": "",
+      "bukti": "C:\\fakepath\\Workshop Pengisian SIMKATMAWA.png",
+      "id": 6
+    },
+    {
+      "name": "sdd",
+      "address": "",
+      "phone": "",
+      "class": "",
+      "description": "",
+      "bukti": "C:\\fakepath\\Workshop Pengisian SIMKATMAWA.png",
+      "id": 7
+    }
+  ]
+}
