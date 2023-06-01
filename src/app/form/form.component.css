@@ -33,7 +33,7 @@ form {
  button[type="submit"] {
    padding: 10px;
    background-color: #57C5B6;
-   color: #fff;
+   color: #000000;
    border: none;
    border-radius: 5px;
    cursor: pointer;
