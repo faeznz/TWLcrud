@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class ApiService {
 
-  private apiUrl = 'http://localhost:3000';
+  private apiUrl = 'https://sewa.netlify.app/.netlify/functions/api';
 
   constructor(private http: HttpClient) { }
 
